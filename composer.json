@@ -1,7 +1,7 @@
 {
-    "name": "aliyuncs/aliyun-dysms-php-sdk",
+    "name": "zhr0319/aliyun-dysms-php-sdk",
     "description": "Aliyun SMS SDK for PHP",
-    "keywords": [ "aliyun", "SMS", "sdk" ],
+    "keywords": [ "SMS", "sdk" ],
     "type": "library",
     "license": "Apache-2.0",
     "homepage": "https://www.aliyun.com/product/sms",
